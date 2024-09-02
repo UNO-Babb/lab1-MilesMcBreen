@@ -1,7 +1,7 @@
 #FirstProgram.py
-#Name:
-#Date:
-#Assignment:
+#Name: Miles McBreen
+#Date: 9/1/24
+#Assignment: Lab 1
 
 def main():
   print("First Program")
@@ -20,3 +20,6 @@ def main():
 #Call the main function if this is the file being run.
 if __name__ == '__main__':
     main()
+main = input("what is your name? ")
+print("hello")
+print (main)
